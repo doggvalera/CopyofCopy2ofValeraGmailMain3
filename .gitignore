@@ -1,0 +1,7 @@
+.idea/
+gwt-unitCache/
+target/
+test-clases/
+
+*.iml
+*.class
